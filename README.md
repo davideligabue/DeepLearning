@@ -5,6 +5,6 @@ If you don't want to retrain the model defined in the notebook you can download 
 
 You have to uncomment and run the cell which will download the weights using gdown and the they will be loaded in the model with the function `load_weight` of the class `Seq2Seq`.
 
-In this case be carefull to run all the notebook except for the paragraph Trining.
+In this case be carefull to run all the notebook except for the paragraph Training.
 
-Otherwise if you want to retrained all the model you can run the notebook without changing anything.
+Otherwise if you want to retrain all the model you can run the notebook without changing anything.
